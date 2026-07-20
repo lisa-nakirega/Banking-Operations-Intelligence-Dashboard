@@ -1,2 +1,17 @@
-# Banking-Operations-Intelligence-Dashboard
-A Business Intelligence solution that helps banking operations managers monitor operational performance, SLA compliance, analyst productivity, and branch efficiency using SQL, Excel, and Power BI.
+# Banking Operations Intelligence Dashboard
+
+## Project Overview
+
+This project demonstrates how Business Intelligence can be used to monitor and improve banking operations through interactive dashboards, operational KPIs, and data-driven insights.
+
+**Status:** 🚧 In Progress
+
+## Tools
+- Power BI
+- SQL Server
+- Microsoft Excel
+- GitHub
+
+## Project Objective
+
+To build an interactive dashboard that enables banking management to monitor analyst productivity, branch performance, SLA compliance, operational trends, and overall service efficiency.
