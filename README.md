@@ -1,2 +1,2 @@
 # Banking-Operations-Intelligence-Dashboard
-This is an interactive dashboard that enables senior management to monitor banking operations, analyst productivity, branch performance, service level agreement (SLA) compliance, and operational trends to support data-driven decision-making.
+A Business Intelligence solution that helps banking operations managers monitor operational performance, SLA compliance, analyst productivity, and branch efficiency using SQL, Excel, and Power BI.
