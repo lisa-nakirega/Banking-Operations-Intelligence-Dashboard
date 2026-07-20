@@ -1,25 +1,29 @@
-                    Business Questions
+#   Executive Summary
+Unity Bank Uganda has experienced increasing operational workloads across its retail banking operations. Senior management requires a centralized dashboard to monitor case volumes, analyst productivity, branch performance, SLA compliance, and operational efficiency. The objective of this project is to design a Business Intelligence dashboard that provides timely insights and supports data-driven operational decision-making.
+
+## Business Questions
 Our dashboard must answer these questions.
-Executive View
+
+## Executive View
 •	How many cases did we receive? 
 •	How many have been completed? 
 •	How many are still open? 
 •	Are we meeting our SLA? 
 •	Which branches are performing well?                                                             
 •	Which branches need attention? 
-________________________________________
-Analyst Performance
+
+## Analyst Performance
 •	Which analyst closes the most cases? 
 •	Which analyst has the longest turnaround time? 
 •	Who has the biggest backlog? 
-________________________________________
-Operations
+
+## Operations
 •	Which products generate the most requests? 
 •	Which case types take the longest? 
 •	Which regions have the most workload? 
 •	Are escalations increasing? 
-________________________________________
-Customer
+
+## Customer
 •	Which customer segment raises the most requests? 
 •	Which requests are highest risk?
 
