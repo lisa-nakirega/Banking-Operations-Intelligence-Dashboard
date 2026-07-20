@@ -1,30 +1,46 @@
-#   Executive Summary
-Unity Bank Uganda has experienced increasing operational workloads across its retail banking operations. Senior management requires a centralized dashboard to monitor case volumes, analyst productivity, branch performance, SLA compliance, and operational efficiency. The objective of this project is to design a Business Intelligence dashboard that provides timely insights and supports data-driven operational decision-making.
+# 🏦 Business Requirements.                              
 
-## Business Questions
-Our dashboard must answer these questions.
+## 📌 Business Scenario Summary                                                                                         
 
-## Executive View
-•	How many cases did we receive? 
-•	How many have been completed? 
-•	How many are still open? 
-•	Are we meeting our SLA? 
-•	Which branches are performing well?                                                             
-•	Which branches need attention? 
+Unity Bank Uganda *(Fictional)* has experienced increasing operational workloads across its retail banking operations.
 
-## Analyst Performance
-•	Which analyst closes the most cases? 
-•	Which analyst has the longest turnaround time? 
-•	Who has the biggest backlog? 
+Senior management requires a centralized dashboard to monitor case volumes, analyst productivity, branch performance, SLA compliance, and operational efficiency.
 
-## Operations
-•	Which products generate the most requests? 
-•	Which case types take the longest? 
-•	Which regions have the most workload? 
-•	Are escalations increasing? 
+This dashboard is designed to support data-driven operational decision-making.
 
-## Customer
-•	Which customer segment raises the most requests? 
-•	Which requests are highest risk?
+---
+
+## ❓ Business Questions
+
+### Executive View
+
+- How many cases did we receive?
+- How many have been completed?
+- How many are still open?
+- Are we meeting our SLA?
+- Which branches are performing well?
+- Which branches need attention?
+
+### Analyst Performance
+
+- Which analyst closes the most cases?
+- Which analyst has the longest turnaround time?
+- Who has the biggest backlog?
+
+### Operations
+
+- Which products generate the most requests?
+- Which case types take the longest?
+- Which regions have the highest workload?
+- Are escalations increasing?          
+
+###  Customer
+
+- Which customer segment raises the most requests?
+- Which requests are highest risk?
+
+
+
+
 
           
