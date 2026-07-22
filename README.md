@@ -14,7 +14,7 @@ This project demonstrates how Business Intelligence can be used to monitor and i
 
 ## Project Objective
 
-To build an interactive dashboard that enables banking management to monitor analyst productivity, branch performance, SLA compliance, operational trends, and overall service efficiency.
+To build an interactive dashboard that enables banking management to monitor employee productivity, branch performance, SLA compliance, operational trends, and overall service efficiency.
 
 ## Technical Highlights
 
