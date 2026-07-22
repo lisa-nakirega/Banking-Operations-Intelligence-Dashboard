@@ -18,11 +18,12 @@ To build an interactive dashboard that enables banking management to monitor emp
 
 ## Technical Highlights
 
-- Designed a dimensional data model using a star schema.
-- Created fact and dimension tables following BI best practices
-- Reduced data redundancy through dimensional modeling.
-- Designed a banking operations database from business requirements.
-- Built a scalable SQL Server database for Power BI.
+- SQL Server relational database
+- Star Schema dimensional model
+- Primary and Foreign Key relationships
+- Optimized for analytical reporting
+- Designed for Power BI integration
+- Business-oriented data model supporting operational analytics
 
 # 🗄️ Database Design
 
@@ -226,13 +227,3 @@ The database has been designed to answer operational business questions such as:
 - How does operational workload change over time?
 - Which customer segments generate the highest number of cases?
 
----
-
-# Technical Highlights
-
-- SQL Server relational database
-- Star Schema dimensional model
-- Primary and Foreign Key relationships
-- Optimized for analytical reporting
-- Designed for Power BI integration
-- Business-oriented data model supporting operational analytics
