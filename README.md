@@ -149,7 +149,7 @@ Supports time-based analysis including:
 
 The **FactCases** table is the central table of the data warehouse.
 
-Each record represents **one account maintenance case** processed by the operations team.
+Each record represents **one account case** processed by the operations team.
 
 Rather than storing descriptive information repeatedly, the table references dimension tables through foreign keys.
 
