@@ -15,3 +15,11 @@ This project demonstrates how Business Intelligence can be used to monitor and i
 ## Project Objective
 
 To build an interactive dashboard that enables banking management to monitor analyst productivity, branch performance, SLA compliance, operational trends, and overall service efficiency.
+
+## Technical Highlights
+
+- Designed a dimensional data model using a star schema.
+- Created fact and dimension tables following BI best practices
+- Reduced data redundancy through dimensional modeling.
+- Designed a banking operations database from business requirements.
+- Built a scalable SQL Server database for Power BI.
