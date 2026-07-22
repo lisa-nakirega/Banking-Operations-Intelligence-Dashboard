@@ -1,4 +1,4 @@
-# Banking Operations Intelligence Dashboard
+# Banking Operations Intelligence Solution
 
 ## Project Overview
 
